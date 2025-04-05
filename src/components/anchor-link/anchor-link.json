@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_anchor_link_anchor_links",
+  "info": {
+    "displayName": "Anchor Link"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "path": {
+      "type": "string"
+    },
+    "open_in_new_tab": {
+      "type": "boolean"
+    }
+  }
+}

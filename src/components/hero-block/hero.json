@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_hero_block_heroes",
+  "info": {
+    "displayName": "Hero",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "amIHero": {
+      "type": "boolean"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "anchor-link.anchor-link"
+    }
+  }
+}

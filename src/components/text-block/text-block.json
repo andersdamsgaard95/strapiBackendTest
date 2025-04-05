@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_text_block_text_blocks",
+  "info": {
+    "displayName": "TextBlock"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Text": {
+      "type": "blocks"
+    },
+    "AmIOrange": {
+      "type": "boolean"
+    }
+  }
+}
